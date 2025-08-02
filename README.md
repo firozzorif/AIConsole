@@ -88,7 +88,8 @@ No retraining or fine-tuning is required — you're injecting instructions direc
 
 ## 📸 Screenshot
 
-![DeepSeek Chat PyQt5](screenshot.png)
+![DeepSeek Chat PyQt5](<img width="590" height="735" alt="image" src="https://github.com/user-attachments/assets/cd9dc513-cd0b-48f4-884e-aabda17a2954" />
+.png)
 
 ---
 
