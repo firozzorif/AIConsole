@@ -121,6 +121,3 @@ MIT License. Use freely, modify, and adapt.
 
 **Firoz Khan**
 Check out more of my projects or reach out for collaboration!
-
-```
-
