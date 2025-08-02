@@ -1,8 +1,4 @@
-# 🗂️ Repository: `AIConsole`
-
-> A fast, local-first AI chatbot built with PyQt5 and LM Studio using the DeepSeek R1 model — no cloud, no API keys, fully customizable for any domain.
-
-# 🧠 Local Chatbot (PyQt5 GUI)
+# 🧠 AIConsole
 
 A fully offline chatbot powered by **LM Studio** and **DeepSeek R1** LLM, with a clean front-end built using **PyQt5**.
 
