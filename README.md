@@ -1,5 +1,3 @@
-Here's a clean and professional **README.md** file that documents everything you've done and how others can replicate or adapt your chatbot project:
-
 ---
 
 ````markdown
