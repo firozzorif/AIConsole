@@ -6,15 +6,6 @@ No online API calls, no OpenAI keys — just local, fast, and customizable AI.
 
 ---
 
-````markdown
-# 🧠 Local Chatbot (PyQt5 GUI)
-
-A fully offline chatbot powered by **LM Studio** and **DeepSeek R1** LLM, with a clean front-end built using **PyQt5**.
-
-No online API calls, no OpenAI keys — just local, fast, and customizable AI.
-
----
-
 ## 📌 Features
 
 - 🧑‍💻 **Offline Chatbot** using LM Studio + local model
